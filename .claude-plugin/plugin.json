@@ -1,0 +1,20 @@
+{
+  "name": "first-principles-thinking",
+  "description": "First principles thinking skill for engineering problems -- challenge assumptions, find ground truths, build solutions from bedrock",
+  "version": "1.0.0",
+  "author": {
+    "name": "Swapnil Dahiphale"
+  },
+  "homepage": "https://github.com/swapnildahiphale/first-principles-thinking-skill",
+  "repository": "https://github.com/swapnildahiphale/first-principles-thinking-skill",
+  "license": "MIT",
+  "keywords": [
+    "first-principles",
+    "thinking",
+    "architecture",
+    "design",
+    "problem-solving",
+    "socratic",
+    "decision-making"
+  ]
+}
