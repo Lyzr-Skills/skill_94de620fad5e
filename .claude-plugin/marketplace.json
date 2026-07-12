@@ -1,0 +1,25 @@
+{
+  "name": "swapnildahiphale",
+  "description": "First principles thinking skill for Claude Code",
+  "owner": {
+    "name": "Swapnil Dahiphale"
+  },
+  "plugins": [
+    {
+      "name": "first-principles-thinking",
+      "source": "./",
+      "description": "First principles thinking for engineering problems -- challenge assumptions, find ground truths, build solutions from bedrock",
+      "version": "1.0.0",
+      "author": {
+        "name": "Swapnil Dahiphale"
+      },
+      "keywords": [
+        "first-principles",
+        "thinking",
+        "architecture",
+        "design",
+        "problem-solving"
+      ]
+    }
+  ]
+}
