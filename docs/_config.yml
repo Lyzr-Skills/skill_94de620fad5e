@@ -1,0 +1,25 @@
+title: "First Principles Thinking Skill for Coding Agents"
+description: "A coding agent skill that applies first principles thinking to engineering problems. Challenge assumptions, identify ground truths, and build solutions from bedrock rather than convention."
+url: "https://swapnildahiphale.github.io"
+baseurl: "/first-principles-thinking-skill"
+theme: minima
+
+author:
+  name: Swapnil Dahiphale
+  url: https://swapnil.one
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /first-principles-thinking-skill/assets/social-preview.png
+
+social:
+  name: Swapnil Dahiphale
+  links:
+    - https://github.com/swapnildahiphale
+    - https://www.linkedin.com/in/swapnil2233/
