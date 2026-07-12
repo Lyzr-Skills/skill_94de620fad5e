@@ -1,0 +1,17 @@
+# Cursor IDE
+.cursor/hooks/state/
+.cursor/skills/
+AGENTS.md
+
+# Internal docs
+SEO-MANUAL-STEPS.md
+RELEASE_NOTES.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
